@@ -1,4 +1,4 @@
-# Breast Cancer Predictionn
+# Breast Cancer Prediction
 
 This repository hosts a Python script dedicated to building and training a neural network model designed to classify breast cancer diagnoses, utilizing features extracted from medical images. The dataset essential for this project is stored within a CSV file, 'data.csv', which contains pertinent information concerning breast cancer cases.
 
